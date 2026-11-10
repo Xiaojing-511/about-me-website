@@ -54,7 +54,7 @@ window.SITE_CONTENT = {
   },
   works: [
     {
-      image: "images/works/01.png",
+      image: "images/works/01.jpg",
       scan: "images/scan/01.png",
       zh: {
         title: "旅行小咪",
@@ -66,7 +66,7 @@ window.SITE_CONTENT = {
       },
     },
     {
-      image: "images/works/02.png",
+      image: "images/works/02.jpg",
       scan: "images/scan/02.png",
       zh: {
         title: "吃什么-随手记下的便是答案",
